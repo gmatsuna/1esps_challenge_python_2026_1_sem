@@ -1,5 +1,16 @@
 # 🏃‍♂️ Sistema de Gamificação de Hábitos Saudáveis
 
+## 👨‍💻 Integrantes
+
+| Nome | RM |
+|------|----|
+| Douglas Taveira Vilella Roberto | 567846 |
+| Gilberto Hideaki Matsunaga      | 568191 |
+| Igor Davi Avelar Rosa Cesário   | 568163 |
+| Wenderson da Silva Santos       | 567847 |
+
+---
+
 ## 📌 Descrição do Projeto
 
 Este projeto tem como objetivo desenvolver um sistema em Python para registro de atividades diárias relacionadas à saúde e bem-estar, aplicando conceitos de **Computational Thinking**.
